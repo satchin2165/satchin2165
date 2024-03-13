@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satone Chin</h1>
+<h1 align="center">Hi 👋, I'm Satone</h1>
 <h3 align="center">I am an Analyst with 6 years of IT and financial consulting experience, excelling in data analysis, business intelligence, and process enhancement. Known for delivering actionable insights and driving operational efficiency. Enthusiastic about leveraging business value through data and technology.</h3>
 
 ##  🤖 Tech Stack
