@@ -1,10 +1,40 @@
 <h1 align="center">Hi 👋, I'm Satone Chin</h1>
 <h3 align="center">I am an Analyst with 6 years of IT and financial consulting experience, excelling in data analysis, business intelligence, and process enhancement. Known for delivering actionable insights and driving operational efficiency. Enthusiastic about leveraging business value through data and technology.</h3>
 
-<h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/satonechin/
-<p align="left">
-</p>
+##  🤖 Tech Stack
+Here's what I code with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Data Analysis</b></td>
+      <td><b>Data Vizualisation</b></td>
+      <td><b>Data Science and AI</b></td>
+      <td><b>MLOps</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img alt="Scipy" src="https://img.shields.io/badge/-Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+      </td>
+      <td>
+        <img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-6BA1AE?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </td>
+      <td>
+        <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+      </td>
+      <td>
+        <img alt="ML flow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img alt="Prefect" src="https://img.shields.io/badge/-Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
