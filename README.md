@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satone</h1>
-<h3 align="center">I am an Analyst with 6 years of IT and financial consulting experience, excelling in data analysis, business intelligence, and process enhancement. Known for delivering actionable insights and driving operational efficiency. Enthusiastic about leveraging business value through data and technology.</h3>
+<h3 align="center">With 6 years of experience in the consulting industry, I have specialized in data analysis, business intelligence, and process enhancement. Transitioning into an analytical role, I discovered my passion for working with data, leading me to pursue further knowledge through the Data Science bootcamp at Le Wagon.
+
+Harnessing the potential of data and technology to optimize business outcomes is my passion!</h3>
 
 ##  🤖 Tech Stack
 Here's what I code with
